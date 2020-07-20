@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/ganesh/Pictures/737288-full-size-original-mac-wallpapers-1920x1080.jpg' 
