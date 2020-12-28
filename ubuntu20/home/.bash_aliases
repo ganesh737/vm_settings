@@ -4,3 +4,5 @@ alias qt3dviewer="/home/ganesh/sft/Qt/Tools/Qt3DStudio/bin/Qt3DViewer &"
 alias qtdesignstudio="/home/ganesh/sft/Qt/Tools/QtDesignStudio/bin/qtdesignstudio &"
 
 alias obsidian="/home/ganesh/sft/Obsidian/Obsidian-0.10.1.AppImage &"
+
+alias screenrpi="screen -L -Logfile /home/ganesh/vmshare/logging/rpi/rpi_serial_$(date +%Y%m%d%k%M).log  /dev/ttyUSB0 115200"

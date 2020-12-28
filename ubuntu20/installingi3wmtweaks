@@ -1,0 +1,3 @@
+sudo add-apt-repository ppa:fossfreedom/arc-gtk-theme-daily
+sudo add-apt-repository -u ppa:snwh/ppa
+sudo apt-get install i3 i3blocks feh faba-icon-theme moka-icon-theme fonts-font-awesome
